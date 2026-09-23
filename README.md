@@ -1,0 +1,2 @@
+#Odin Recipes
+This is my first HTML project from The Odin Project. I will build a recipe website to practice the HTML skills I have learned, including headings, links, images, lists and basic page structure
